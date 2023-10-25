@@ -3,7 +3,7 @@
 
 This is essentially a game engine using the Pygame library in Python, it is not a complete game.
 
-To try it, open the "Game" shortcut.
+To try it, download and extract the zip and open the "Game" shortcut.
 
 A preview including most of the functions can be found here: https://www.youtube.com/watch?v=VJXUZ-4kULU
 
